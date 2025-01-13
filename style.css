@@ -360,3 +360,17 @@ body {
     margin-bottom: 1rem;
   }
 }
+@media (min-width: 992px) {
+  .col-lg-4 {
+    flex: 0 0 auto;
+    width: 26.333333%;
+  }
+}
+@media (min-width: 992px) {
+  .ratio-1 {
+    height: 350px !important;
+  }
+  .ratio-2 {
+    margin-top: 70px;
+  }
+}
